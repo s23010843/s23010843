@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @s23010843
 
-## 👀 I’m interested in:
+## I’m interested in:
 
 - **Web Development:**
-  - Frontend (React, Angular, Vue.js)
+  - Frontend (React, Angular, Vue.js, Svelte, Astro)
   - Backend (Node.js, Express, Django, Flask, Spring Boot, ASP.NET)
 
 - **Building Scalable Applications**
@@ -12,11 +12,11 @@
   - AWS, Azure, Google Cloud
   - Docker, Kubernetes, CI/CD pipelines
   
-- **Open-source Contributions**
+- **Open-source Contributions:**
   - Contributing to projects on GitHub
   - Building and maintaining my own open-source projects
   
-- **Machine Learning & AI**
+- **Machine Learning & AI:**
   - Developing intelligent systems and algorithms
   - Exploring data science, data visualization, and predictive modeling
 
@@ -24,30 +24,33 @@
   - Android Development
   - React Native for cross-platform mobile apps
 
+---
 
 ## 🌱 I’m currently learning:
 
 - **Full Stack Development**
-  
-- **Frontend Development:**
-  - JavaScript (React, Node.js, Express, React Native, Angular, Vue.js, Astro)
-  - HTML, CSS
 
-- **Backend Development:**
-  - Python (Flask, Django)
-  - Java (Spring Boot)
-  - PHP (CodeIgniter)
-  - ASP.NET
+- **Programming Languages:**
+  - **Python** (Flask, Django)
+  - **Java** (Spring Boot)
+  - **PHP** (CodeIgniter)
   - **C**
   - **C++**
   - **C#**
+  - **JavaScript** (Node.js, Express, React Native, Angular, Vue.js, Svelte, Astro)
+  - **SQL** (PostgreSQL, MySQL, SQLite)
+  - **NoSQL** (MongoDB)
+  - **R**
+
+- **Frameworks:**
+  - **Frontend Frameworks**: React, Angular, Vue.js, Svelte, Astro
+  - **Backend Frameworks**: Node.js, Express, Django, Flask, Spring Boot, ASP.NET, CodeIgniter
 
 - **Machine Learning:**
   - Seaborn, Matplotlib, scikit-learn, TensorFlow
 
-- **Database Management:**
-  - SQL: PostgreSQL, MySQL, SQLite
-  - NoSQL: MongoDB
+- **Data Science & Notebooks:**
+  - Jupyter Notebooks (.ipynb)
 
 - **Version Control:**
   - Git & GitHub
@@ -55,18 +58,22 @@
 - **Mobile Development:**
   - Android, React Native
 
+---
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source projects
 - Building cool and innovative web apps
 - Learning new technologies through practical projects
 
+---
+
 ## ⚡ Fun fact:
-- We like solving coding challenges and recently built a personal project to automate our daily tasks!
+- I love solving coding challenges and recently built a personal project to automate my daily tasks!
+
 
 ## 📫 How to reach me:
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/s23010843)
-- **Personal Website**: [https://s23010843.github.io](https://s23010843.github.io)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/s23010843" target="_blank">LinkedIn Profile</a>
+- **Personal Website**: <a href="https://s23010843.github.io" target="_blank">https://s23010843.github.io</a>
 
 <!---
 ## 📫 How to reach me:
