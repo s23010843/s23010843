@@ -28,35 +28,29 @@
 
 ## 🌱 I’m currently learning:
 
-- **Full Stack Development**
+### **Full Stack Development**
 
-- **Programming Languages:**
-  - **Python** (Flask, Django)
-  - **Java** (Spring Boot)
-  - **PHP** (CodeIgniter)
-  - **C**
-  - **C++**
-  - **C#**
-  - **JavaScript** (Node.js, Express, React Native, Angular, Vue.js, Svelte, Astro)
-  - **SQL** (PostgreSQL, MySQL, SQLite)
-  - **NoSQL** (MongoDB)
-  - **R**
+#### **Programming Languages:**
+- **Python** (Flask, Django, FastAPI, Pandas, NumPy, TensorFlow, PyTorch)
+- **Java** (Spring Boot, <!-- Hibernate -->)
+- **PHP** (CodeIgniter, <!-- Laravel, Symfony --> )
+- **C** <!-- (System Programming, POSIX Threads, Linux Kernel Development) -->
+- **C++** <!-- (STL, Qt, Boost, Unreal Engine, OpenGL, CUDA) -->
+- **C#** (ASP.NET, <!-- .NET Core, Xamarin -->)
+- **JavaScript** (Node.js, Express, React, React Native, Angular, Vue.js, Svelte, Astro, Next.js, <!-- D3.js -->)
+- **R** (<!-- Shiny, ggplot2, dplyr, caret, tidyr, --> TensorFlow for R)
 
-- **Frameworks:**
-  - **Frontend Frameworks**: React, Angular, Vue.js, Svelte, Astro
-  - **Backend Frameworks**: Node.js, Express, Django, Flask, Spring Boot, ASP.NET, CodeIgniter
+#### **Databases:**
+- **SQL**: PostgreSQL, MySQL, SQLite
+- **NoSQL**: MongoDB
 
-- **Machine Learning:**
-  - Seaborn, Matplotlib, scikit-learn, TensorFlow
-
-- **Data Science & Notebooks:**
-  - Jupyter Notebooks (.ipynb)
-
-- **Version Control:**
-  - Git & GitHub
-
-- **Mobile Development:**
-  - Android, React Native
+#### **Frameworks & Tools:**
+- **Frontend Frameworks**: React, Angular, Vue.js, Svelte, Astro
+- **Backend Frameworks**: Node.js, Express, Django, Flask, Spring Boot, ASP.NET, CodeIgniter
+- **Machine Learning & Data Science**: Seaborn, Matplotlib, scikit-learn, TensorFlow, Pandas, NumPy
+- **Data Science & Notebooks**: Jupyter Notebooks (.ipynb)
+- **Version Control**: Git & GitHub
+- **Mobile Development**: React Native, Android
 
 ---
 
@@ -68,7 +62,7 @@
 ---
 
 ## ⚡ Fun fact:
-- I love solving coding challenges and recently built a personal project to automate my daily tasks!
+- I love solving coding challenges and recently built a personal project to automate my daily tasks! It’s a work-in-progress, but it’s been super fun experimenting with automation in Python and JavaScript!
 
 
 ## 📫 How to reach me:
