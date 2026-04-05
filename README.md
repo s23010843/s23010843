@@ -42,7 +42,7 @@
 
 #### **Databases:**
 - **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB
+- **NoSQL**: MongoDB, Firebase
 
 #### **Frameworks & Tools:**
 - **Frontend Frameworks**: React, Angular, Vue.js, Svelte, Astro
