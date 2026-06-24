@@ -41,7 +41,7 @@
 - **R** (<!-- Shiny, ggplot2, dplyr, caret, tidyr, --> TensorFlow for R)
 
 #### **Databases:**
-- **SQL**: PostgreSQL, MySQL, SQLite, Supabase
+- **SQL**: PostgreSQL, MySQL, SQLite, Supabase, Neon
 - **NoSQL**: MongoDB, Firebase
 
 #### **Frameworks & Tools:**
