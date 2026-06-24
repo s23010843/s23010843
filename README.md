@@ -3,8 +3,8 @@
 ## I’m interested in:
 
 - **Web Development:**
-  - Frontend (React, Angular, Vue.js, Svelte, Astro)
-  - Backend (Node.js, Express, Django, Flask, Spring Boot, ASP.NET)
+  - Frontend (Astro, Angular, React, Vue.js, Svelte, MDX)
+  - Backend (Node.js, Express, Flask, Django, Spring Boot, ASP.NET)
 
 - **Building Scalable Applications**
   
@@ -41,16 +41,16 @@
 - **R** (<!-- Shiny, ggplot2, dplyr, caret, tidyr, --> TensorFlow for R)
 
 #### **Databases:**
-- **SQL**: PostgreSQL, MySQL, SQLite
+- **SQL**: PostgreSQL, MySQL, SQLite, Supabase
 - **NoSQL**: MongoDB, Firebase
 
 #### **Frameworks & Tools:**
-- **Frontend Frameworks**: React, Angular, Vue.js, Svelte, Astro
+- **Frontend Frameworks**: Astro, Angular, Ionic, React, Next.js, Vue.js, Svelte
 - **Backend Frameworks**: Node.js, Express, Django, Flask, Spring Boot, ASP.NET, CodeIgniter
 - **Machine Learning & Data Science**: Seaborn, Matplotlib, scikit-learn, TensorFlow, Pandas, NumPy
 - **Data Science & Notebooks**: Jupyter Notebooks (.ipynb)
-- **Version Control**: Git & GitHub
-- **Mobile Development**: React Native, Android
+- **Version Control**: Git & GitHub, GitLab
+- **Mobile Development**: Android, React Native, Ionic
 
 ---
 
