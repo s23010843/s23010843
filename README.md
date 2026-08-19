@@ -22,7 +22,9 @@
 
 - **Mobile Development:**
   - Android Development
+  - Flutter & Dart
   - React Native for cross-platform mobile apps
+  - Ionic for hybrid mobile applications
 
 ---
 
@@ -38,6 +40,7 @@
 - **C++** <!-- (STL, Qt, Boost, Unreal Engine, OpenGL, CUDA) -->
 - **C#** (ASP.NET, <!-- .NET Core, Xamarin -->)
 - **JavaScript** (Node.js, Express, React, React Native, Angular, Vue.js, Svelte, Astro, Next.js, <!-- D3.js -->)
+- **Dart** (Flutter)
 - **R** (<!-- Shiny, ggplot2, dplyr, caret, tidyr, --> TensorFlow for R)
 
 #### **Databases:**
@@ -50,7 +53,7 @@
 - **Machine Learning & Data Science**: Seaborn, Matplotlib, scikit-learn, TensorFlow, Pandas, NumPy
 - **Data Science & Notebooks**: Jupyter Notebooks (.ipynb)
 - **Version Control**: Git & GitHub, GitLab
-- **Mobile Development**: Android, React Native, Ionic
+- **Mobile Development**: Android, Flutter, React Native, Ionic
 
 ---
 
